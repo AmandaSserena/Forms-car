@@ -5,8 +5,7 @@ Este projeto é um formulário de cadastro de veículos à venda, desenvolvido c
 
 ## 📸 Captura de Tela
 
-![Formulário de Venda de Veículo](Forms-car
-/screencapture.png)
+![Formulário de Venda de Veículo](https://github.com/AmandaSserena/Forms-car/blob/main/screencapture.png)
 
 ---
 
